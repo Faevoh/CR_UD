@@ -1,4 +1,4 @@
 function faev(a, b){
-    4 + 2
+ return   4 + 2
 };
-console.log(faev)
+console.log(faev())
