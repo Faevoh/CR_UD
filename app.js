@@ -10,3 +10,5 @@ app.use(express.json());
 app.get("/",(req,res)=>{
     res.send("This is The CRUD team, Welcome Aboard")
 });
+
+module.exports = app
